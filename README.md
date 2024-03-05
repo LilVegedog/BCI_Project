@@ -52,10 +52,10 @@ This project is about applying **Artificial Intelligence** and **Deep Learning**
 
 6. (If your current python environment have: mne,numpy,matplotlib,plotly,pandas, then you can skip this.)
      - ```ctrl + ` ``` open the terminal.
-     - type ```pip install mne ```
-     - type ```pip install numpy ```
-     - type ```pip install h5py ```
-     - type ```pip install matplotlib ```
-     - type ```pip install plotly ```
-     - type ```pip install pandas ```
+     - type ```pip install mne ``` and return
+     - type ```pip install numpy ``` and return
+     - type ```pip install h5py ``` and return
+     - type ```pip install matplotlib ``` and return
+     - type ```pip install plotly ``` and return
+     - type ```pip install pandas ``` and return
   
