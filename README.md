@@ -5,16 +5,19 @@ This project is about applying **Artificial Intelligence** and **Deep Learning**
 
 ## project Technology Keywords
 - Python
-- Deep learning (KNN,CNN,LSTM)
+- Deep learning (CNN, LSTM, and Transformer)
 - Data Acquisition and Analytics
 - BCI
 - Neuroscience
 
 ## Project Deliverables:
-- [x]  Signal Acquisition
+- [x]  Data Acquisition
 - [x]  Preprocessing Data (eye-closed *EC* /eye-open *EO*  resting state data) 
-- [ ]  Classfication
-
+- [ ]  Classification Model Architecture Design
+- [ ]  Model Implementation
+- [ ]  Model Training
+- [ ]  Model Evaluation
+- [ ]  GUI (optional)
 ## project Structrue
 - *data* folder: EEG Dataset
 - *src* folder: source code
