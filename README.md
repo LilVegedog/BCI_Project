@@ -13,10 +13,7 @@ This project is about applying **Artificial Intelligence** and **Deep Learning**
 ## Project Deliverables:
 - [x]  Signal Acquisition
 - [x]  Preprocessing Data (eye-closed *EC* /eye-open *EO*  resting state data) 
-- [ ]  Feature Extraction
 - [ ]  Classfication
-- [ ]  App Interface
-- [ ]  Applications
 
 ## project Structrue
 - *data* folder: EEG Dataset
