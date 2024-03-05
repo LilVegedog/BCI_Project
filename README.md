@@ -3,7 +3,7 @@
 ## Project description
 This project is about applying **Artificial Intelligence** and **Deep Learning** in **Brain-Computer Interfacing** for Health-care Issues.
 
-## project Technology Keywords
+## Project Technology Keywords
 - Python
 - Deep learning (CNN, LSTM, and Transformer)
 - Data Acquisition and Analytics
@@ -18,6 +18,7 @@ This project is about applying **Artificial Intelligence** and **Deep Learning**
 - [ ]  Model Training
 - [ ]  Model Evaluation
 - [ ]  GUI (optional)
+
 ## project Structrue
 - *data* folder: EEG Dataset
 - *src* folder: source code
