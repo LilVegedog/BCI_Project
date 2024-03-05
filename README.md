@@ -58,4 +58,5 @@ This project is about applying **Artificial Intelligence** and **Deep Learning**
      - type ```pip install matplotlib ``` and return
      - type ```pip install plotly ``` and return
      - type ```pip install pandas ``` and return
-  
+## EEG Data Pre-processing Mind Mapping
+![BCI EEG Data Pre-processing](https://github.com/LilVegedog/BCI_Project/assets/99380263/ab190b72-2dd1-4f11-b24d-2f0e79e3fce5)
