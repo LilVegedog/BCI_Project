@@ -19,7 +19,7 @@ This project is about applying **Artificial Intelligence** and **Deep Learning**
 - [ ]  Model Evaluation
 - [ ]  GUI (optional)
 
-## project Structrue
+## Project Structrue
 - *data* folder: EEG Dataset
 - *src* folder: source code
 
