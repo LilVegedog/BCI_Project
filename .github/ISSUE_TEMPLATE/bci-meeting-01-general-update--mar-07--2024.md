@@ -12,13 +12,12 @@ assignees: ''
 - **Time**:17:00 - 17:30
 -  **Location**: Virtual, via Teams
 - **Attendees**: 
-
-	- [x] @shis20 (Shuting)
-        - [x] @aidenliw (Aiden）
-        - [x] @LilVegedog (Hongzhao)
-        - [x] @tczhou
-        - [x] @JessicaWang1210
-        - [x] @SLAM-CROC
+- [x] @aidenliw (Aiden）
+- [x] @LilVegedog (Hongzhao)
+- [x] @tczhou (Tianchen)
+- [x] @SLAM-CROC (Siqi)
+- [x] @JessicaWang1210 (Xiru)
+- [x] @shis20 (Shuting)
 
 
 ## Agenda
