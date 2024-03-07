@@ -1,7 +1,7 @@
 ---
-name: BCI Meeting 01 General Update- Mar 07, 2024
+name: 'BCI Meeting Template '
 about: Meeting notes for reference and task review
-title: ''
+title: BCI Meeting 01 General Update- Mar 07, 2024
 labels: ''
 assignees: ''
 
