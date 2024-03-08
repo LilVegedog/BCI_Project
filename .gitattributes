@@ -1,6 +1,2 @@
-*.psd filter=lfs diff=lfs merge=lfs -text
-D:/Users/LENOVO/Desktop/BCI/Code/BCI_Project/data/eyes[[:space:]]closed.hdf5 filter=lfs diff=lfs merge=lfs -text
-D:/Users/LENOVO/Desktop/BCI/Code/BCI_Project/data/Eyes[[:space:]]open2024.03.07_11.13.13.hdf5 filter=lfs diff=lfs merge=lfs -text
-D:/Users/LENOVO/Desktop/BCI/Code/BCI_Project/data/hand[[:space:]]clench.dat filter=lfs diff=lfs merge=lfs -text
-D:/Users/LENOVO/Desktop/BCI/Code/BCI_Project/data/hand[[:space:]]clench2024.03.07_11.30.28.hdf5 filter=lfs diff=lfs merge=lfs -text
-D:/Users/LENOVO/Desktop/BCI/Code/BCI_Project/data/imagine[[:space:]]hand2024.03.07_11.23.45.hdf5 filter=lfs diff=lfs merge=lfs -text
+
+data/hand[[:space:]]clench.dat filter=lfs diff=lfs merge=lfs -text
